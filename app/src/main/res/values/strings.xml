@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BottomNavWithNavigationComponent</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="citas_tittle">Mis citas</string>
+    <string name="titulo_agendar">AGENDAR CITA</string>
+    <string name="select_day">SELECCIONAR DÍA</string>
+    <string name="hora_cita">SELECCIONAR HORA</string>
+    <string name="tipo_cita">TIPO DE CITA</string>
+    <string name="continuar_button">CONTINUAR</string>
+    <string name="agendar_tittle">Agendar</string>
+    <string name="pago_fragment">PAGO FRAGMENT</string>
+    <string name="perfil_tittle">Perfil</string>
+    <string name="pagar_tittle">Pagar</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="password_name">Contraseña</string>
+    <string name="login_boton">iniciar sesión</string>
+    <string name="password_forget">¿Olvidó su contraseña?</string>
+    <string name="registrar_boton">Registrarse</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="telefono_usuario">Teléfono</string>
+    <string name="correo_usuario">Correo</string>
+    <string name="codigo_acceso">Código de acceso</string>
+</resources>
